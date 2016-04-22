@@ -1,0 +1,59 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:2:1-27:12
+	xmlns:android
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/kailuo/Downloads/App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:18:5-42
+	android:targetSdkVersion
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:8:22-64
+application
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:10:5-25:19
+MERGED from [com.android.support:appcompat-v7:19.1.0] /Users/kailuo/Downloads/App1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/AndroidManifest.xml:19:5-20
+	android:supportsRtl
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:13:9-41
+	android:allowBackup
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.william.app1.MainActivity
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/kailuo/Downloads/App1/app/src/main/AndroidManifest.xml:22:27-74

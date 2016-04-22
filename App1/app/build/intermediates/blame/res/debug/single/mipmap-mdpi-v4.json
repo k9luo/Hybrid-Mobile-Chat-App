@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/kailuo/Downloads/App1/app/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/kailuo/Downloads/App1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/kailuo/Downloads/App1/C:\\Users\\william\\AndroidStudioProjects\\App1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "/Users/kailuo/Downloads/App1/C:\\Users\\william\\AndroidStudioProjects\\App1\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]
