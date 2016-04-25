@@ -1,7 +1,7 @@
 # Hybrid-Mobile-Chat-App
 
 Folder websocket1 contains a web chat application. 
-Folder App1 is an Android using websocket1.
+Folder App1 is an Android app using websocket.
 
 ## Architecture Design
 Frontend: JavaScript, HTML5, CSS, Java<br />
