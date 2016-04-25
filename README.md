@@ -5,7 +5,7 @@ Folder App1 is an Android using websocket1.
 
 ## Architecture Design
 Frontend: JavaScript, HTML5, CSS, Java<br />
-Server: Tomcat
+Server: Tomcat<br />
 Protocol: websocket
 
 ## Instructions to use
