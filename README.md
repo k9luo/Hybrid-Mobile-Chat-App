@@ -9,4 +9,4 @@ Server: Tomcat<br />
 Protocol: websocket
 
 ## Instructions to use
-1. In App1, replace the IP address with your IP address in /App1/app/src/main/java/com/example/william/app1/MainActivity.java line 25.
+In App1, replace the IP address with your IP address in /App1/app/src/main/java/com/example/william/app1/MainActivity.java line 25.
